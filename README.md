@@ -5,4 +5,16 @@ This includes:
 * DataBehavior
 * DataFmri
 
-Placing these data folders in this directory will allow the scripts to run. 
+Placing these data folders in this directory will allow the scripts to run. Inside your main project folder should be:
+* DataBehavior
+* DataFmri
+* Analysis
+
+# Requirements:
+* These scripts run with Matlab2020a
+
+  
+# To generate Figure 3A:
+* First run fitIndividModels.m
+* Next run visualizeFittingSuccess_individModels.m
+
