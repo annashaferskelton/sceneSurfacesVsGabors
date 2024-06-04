@@ -18,3 +18,6 @@ Inside your main project folder should be:
 * First run fitIndividModels.m
 * Next run visualizeFittingSuccess_individModels.m
 
+# To generate Figures 3B and 3C:
+* First run fitVarPartModels.m
+* Next run visualizeFittingSuccess_varPart.m
