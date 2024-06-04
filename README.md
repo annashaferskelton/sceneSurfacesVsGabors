@@ -5,7 +5,7 @@ This includes:
 * DataBehavior
 * DataFmri
 
-Placing these data folders in this directory will allow the scripts to run. Inside your main project folder should be:
+Inside your main project folder should be:
 * DataBehavior
 * DataFmri
 * Analysis
